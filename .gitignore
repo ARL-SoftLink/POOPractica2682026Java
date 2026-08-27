@@ -1,0 +1,19 @@
+# gitignore
+
+# Archivos compilados de Java
+*.class
+
+# Archivos de configuración del IDE de VS Code
+.vscode/
+*.code-workspace
+
+# Archivos de sistema operativo
+**/desktop.ini
+Thumbs.db
+.DS_Store
+
+# Carpetas de compilación (si usas Maven o Gradle)
+target/
+build/
+
+# Notas personales
